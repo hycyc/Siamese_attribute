@@ -5,7 +5,7 @@ the method performs as well with other entity attibutes.
 Last page update: **12/04/2019**
 
 # Prerequiries
-1. Download the project.
+1. Download the project with git clone:
     
     git clone https://github.com/hycyc/Siamese_attribute_extraction
     
